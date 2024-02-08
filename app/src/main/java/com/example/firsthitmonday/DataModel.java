@@ -10,7 +10,6 @@ public class DataModel {
     public DataModel(String name, String version, int image) {
         this.name = name;
         this.version = version;
-        this.id_ = id_;
         this.image = image;
     }
 
