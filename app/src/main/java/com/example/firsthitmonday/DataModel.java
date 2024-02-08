@@ -4,7 +4,6 @@ public class DataModel {
 
     private String name;
     private String version;
-    private int id_;
     private int image;
 
     public DataModel(String name, String version, int image) {
