@@ -28,10 +28,6 @@ public class DataModel {
         this.version = version;
     }
 
-    public int getId_() {
-        return id_;
-    }
-
     public int getImage() {
         return image;
     }
